@@ -1,0 +1,78 @@
+{
+  "easy": [
+
+    "apple", "banana", "chair", "table", "door", "cup", "hat", "shoe", "sock", "lamp",
+    "book", "pencil", "phone", "soap", "spoon", "bag", "bottle", "clock", "umbrella",
+    "blanket", "pillow", "bicycle", "scissors", "balloon", "camera", "teddy bear", "basket",
+    "kite", "mirror", "toy", "doll", "glasses", "backpack", "candle", "watch", "box", 
+    "fan", "keyboard", "brush", "toothbrush", "glue", "ruler", "eraser", "notebook",
+    "bucket", "binoculars", "paintbrush", "glitter", "remote control", "headphones", 
+    "magnet", "compass", "whistle", "shovel", "map", "lantern", "dice", "battery",
+    
+
+    "cat", "dog", "bird", "fish", "elephant", "lion", "tiger", "zebra", "giraffe",
+    "kangaroo", "monkey", "penguin", "dolphin", "whale", "octopus", "crab", "shark",
+    "frog", "rabbit", "mouse", "horse", "cow", "sheep", "goat", "chicken", "duck",
+    "pig", "bear", "snake", "turtle", "butterfly", "bee", "spider", "ant", "fox",
+    "wolf", "owl", "eagle", "parrot", "deer", "hedgehog", "panda", "koala", "sloth",
+    "iguana", "caterpillar", "ladybug", "goldfish", "seal", "walrus", "raccoon",
+    "lobster", "flamingo", "peacock", "bat", "skunk", "squirrel", "hedgehog", 
+    "platypus", "dinosaur", "unicorn", "dragon", "phoenix", "mermaid", "monster",
+
+
+    "pizza", "burger", "fries", "chicken", "cheese", "egg", "bread", "sandwich", 
+    "pasta", "spaghetti", "popcorn", "candy", "chocolate", "ice cream", "cake", 
+    "donut", "cookie", "waffle", "pancake", "strawberry", "banana split", "grape",
+    "apple", "watermelon", "peach", "pear", "lemon", "orange", "pineapple", "coconut",
+    "kiwi", "mango", "blueberry", "cherry", "carrot", "potato", "cucumber", "pepper",
+    "tomato", "broccoli", "corn", "onion", "pumpkin", "mushroom", "hotdog", "soup", 
+    "salad", "butter", "yogurt", "milkshake", "smoothie", "jellybeans", "marshmallow",
+    "taco", "burrito", "quesadilla", "popsicle", "bubblegum", "sushi", "macaroni",
+    
+
+    "jumping", "running", "dancing", "swimming", "crawling", "skipping", "climbing", 
+    "singing", "acting", "drawing", "painting", "writing", "reading", "kicking", 
+    "throwing", "catching", "digging", "hugging", "waving", "spinning", "swinging",
+    "building", "sleeping", "snoring", "stretching", "cycling", "playing guitar", 
+    "playing piano", "whistling", "cooking", "eating", "drinking", "rowing a boat",
+    "fishing", "blowing bubbles", "planting flowers", "playing tag", "hula hooping", 
+    "skateboarding", "riding a horse", "flying a kite", "clapping", "cheering",
+    "sneezing", "washing hands", "vacuuming", "brushing teeth", "tying shoes",
+    "folding clothes", "wrapping a gift", "watering plants", "jumping rope", 
+    "ice skating", "skiing", "sledding", "playing soccer", "dribbling basketball",
+    
+
+    "wizard", "pirate", "superhero", "fairy", "witch", "robot", "spaceship", "rocket",
+    "treasure chest", "magic wand", "castle", "roller coaster", "dragon", "campfire",
+    "lighthouse", "rainbow", "flying carpet", "time machine", "giant", "invisible cloak",
+    "robot dog", "wizard hat", "pirate ship", "haunted house", "alien", "ghost", 
+    "detective", "spy", "knight", "jester", "ninja", "ballerina", "monster", "mermaid",
+    "treetop", "telescope", "giant bubble", "magic mirror", "gold coin", "parachute",
+    
+
+    "tree", "flower", "river", "mountain", "ocean", "lake", "island", "hill", "volcano",
+    "waterfall", "desert", "forest", "jungle", "cave", "rock", "leaf", "acorn", 
+    "pinecone", "bush", "sandcastle", "snowman", "snowflake", "storm", "rain", "cloud",
+    "lightning", "sunshine", "moonlight", "starlight", "tornado", "rainbow", "geyser", 
+    "avalanche", "icicle", "wave", "coral reef", "tide pool", "sunflower", "butterfly",
+    
+   
+    "car", "bus", "train", "plane", "bicycle", "scooter", "skateboard", "motorcycle", 
+    "firetruck", "ambulance", "police car", "tractor", "boat", "submarine", "rocket",
+    "spaceship", "hoverboard", "hot air balloon", "roller coaster", "sled", "canoe", 
+    "kayak", "surfboard", "taxi", "helicopter", "airplane", "speedboat", "ferry",
+    "monster truck", "wagon", "stroller", "tricycle", "rowboat", "cruise ship", "raft",
+    
+    
+    "soccer ball", "basketball", "baseball", "tennis racket", "volleyball", "bowling",
+    "golf club", "hockey stick", "goal post", "skipping rope", "roller skates", 
+    "ping pong paddle", "frisbee", "boomerang", "dartboard", "playing cards", 
+    "video game controller", "puzzle piece", "chess piece", "domino", "checkers",
+    "tug of war", "hide and seek", "tag", "hopscotch", "jump rope", "ball pit",
+    
+    
+    "robot dance", "snow angel", "rollerblading", "riding a unicycle", "juggling",
+    "drumming", "marching", "pogo stick", "magic trick", "shadow puppet", "making a wish",
+    "blowing out candles", "pretending to fly", "pretending to be invisible"
+  ]
+}
